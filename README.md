@@ -34,17 +34,34 @@
 
 ---
 
+# 📝 Midterm Tasks  
+*(All midterm activities and outputs are listed below)*
+
 ## 🚀 Projects  
-All of my project files are available in the **projects** folder.  
+All of my project files are available in the **Projects** folder.  
 Click below to view or download them directly 👇  
 
-- [Midterm Paired Task 1](./projects/Midterm%20paired%20task%201.pdf)  
-- [Midterm Task 1](./projects/Midterm%20task%201.pdf)  
-- [Midterm Task 2](./projects/Midterm%20task%202.pdf)  
-- [Midterm Task 3](./projects/Midterm%20task%203.pdf)  
-- [Midterm Task 4](./projects/Midterm%20task%204.pdf)  
-- [Midterm Task 5](./projects/Midterm%20task%205.pdf)  
-- [Midterm Task 6](./projects/Midterm%20task%206.pdf)  
+---
+
+### **📚 Midterm Projects**
+- [Midterms Paired Task 1](./Projects/Midterms%20Paired%20Task%201.pdf)  
+- [Midterm Task 1](./Projects/Midterm%20Task%201.pdf)  
+- [Midterm Task 2](./Projects/Midterm%20Task%202.pdf)  
+- [Midterm Task 3](./Projects/Midterm%20Task%203.pdf)  
+- [Midterm Task 4](./Projects/Midterm%20Task%204.pdf)  
+- [Midterm Task 5](./Projects/Midterm%20Task%205.pdf)  
+- [Midterm Task 6](./Projects/Midterm%20Task%206.pdf)  
+
+---
+
+### **📘 Finals Projects**
+- [Finals Lab Task 1 – Encapsulation](./Projects/Prince%20Julius%20Avila%20-%20Finals%20Lab%20Task%201.%20Encapsulation.pdf)  
+- [Finals Lab Task 2 – Inheritance](./Projects/Prince%20Julius%20Avila%20-%20Finals%20Task%202.%20Inheritance.pdf)  
+- [Finals Lab Task 3 – Polymorphism](./Projects/Prince%20Julius%20Avila%20-%20Finals%20Task%203.%20Polymorphism%20.pdf)  
+- [Finals Lab Task 4 – Designing Tkinter GUI using OOP(Missing)  
+- [Finals Lab Task 5 – Designing a Tkinter Window and Adding Events(Missing)  
+- [Finals Lab Task 6 – MySQL and Python CRUD (CLI)](./Projects/Prince%20Julius%20Avila%20-%20Finals%20Lab%20Task%206.%20Mysql%20and%20Pythod%20CRUD%20using%20CLI.pdf)  
+- [Finals Lab Task 7 – Tkinter CRUD GUI (Exempted)](./Projects/Prince%20Julius%20Avila%20-%20Finals%20Task%207.%20Tkinter%20CRUD%20GUI.pdf)  
 
 ---
 
